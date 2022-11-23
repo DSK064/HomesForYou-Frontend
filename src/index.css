@@ -1,0 +1,20 @@
+body{
+  background-color: #efecec;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+}
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
